@@ -3,4 +3,4 @@
 
 Разработчик Михаил Косарев
 
-https://babinoff.github.io/REVIT-RU/
+https://babinoff.github.io/TIM-BIM-RU/
